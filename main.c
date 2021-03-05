@@ -1,6 +1,15 @@
+/*
 #include <stdio.h>
 
-int main(void) {
-  printf("Hello World\n");
-  return 0;
+int main(void){
+
+int A,B;
+
+scanf("%i",&A);
+scanf("%i",&B);
+
+printf("%i %i",A,B);
+
+return 0;
 }
+*/
