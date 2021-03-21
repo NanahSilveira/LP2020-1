@@ -1,7 +1,7 @@
 // #include<stdio.h>
 // int main(void){
-//   int A,B;
-//   scanf("%i%i",&A,&B);
-//   printf("\n%i %i: ",A,B);
+//   int Num1,Num2;
+//   scanf("%i%i",&Num1,&Num2);
+//   printf("\n%i %i: ",Num1,Num2);
 //   return 0;
 // }
