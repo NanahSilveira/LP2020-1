@@ -1,7 +1,7 @@
 // #include<stdio.h>
 // int main(void){
 //   int A, B;
-//   printf("\n Valor do A:");
+//   printf("\nValor do A:");
 //   scanf("%d",&A);
 //   printf("Valor do B:");
 //   scanf("%d",&B);
